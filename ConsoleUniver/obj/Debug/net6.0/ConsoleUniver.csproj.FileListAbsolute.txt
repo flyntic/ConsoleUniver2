@@ -1,0 +1,15 @@
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\bin\Debug\net6.0\ConsoleUniver.exe
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\bin\Debug\net6.0\ConsoleUniver.deps.json
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\bin\Debug\net6.0\ConsoleUniver.runtimeconfig.json
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\bin\Debug\net6.0\ConsoleUniver.dll
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\bin\Debug\net6.0\ConsoleUniver.pdb
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\ConsoleUniver.csproj.AssemblyReference.cache
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\ConsoleUniver.GeneratedMSBuildEditorConfig.editorconfig
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\ConsoleUniver.AssemblyInfoInputs.cache
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\ConsoleUniver.AssemblyInfo.cs
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\ConsoleUniver.csproj.CoreCompileInputs.cache
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\ConsoleUniver.dll
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\refint\ConsoleUniver.dll
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\ConsoleUniver.pdb
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\ConsoleUniver.genruntimeconfig.cache
+C:\AnnaC#\1\ConsoleUniver\ConsoleUniver\obj\Debug\net6.0\ref\ConsoleUniver.dll
